@@ -15,5 +15,7 @@ public enum IntervalEnum {
     }
 
     public int getCount()  {return count;}
+
+    public String getMessage()  {return message;}
 }
 
