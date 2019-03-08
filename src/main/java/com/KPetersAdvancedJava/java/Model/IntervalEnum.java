@@ -1,4 +1,4 @@
-package com.KPetersAssn3.java.Model;
+package com.KPetersAdvancedJava.java.Model;
 
 public enum IntervalEnum {
 

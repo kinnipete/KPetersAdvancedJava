@@ -6,7 +6,7 @@
  * @since 2/6/2019
  */
 
-package com.KPetersAssn3.java.Service;
+package com.KPetersAdvancedJava.java.Service;
 
 /**
  *   Factory class to create new BasicStockService

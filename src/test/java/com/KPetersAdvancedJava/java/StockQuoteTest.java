@@ -6,9 +6,9 @@
  * @since 2/6/2019
  */
 
-package com.KPetersAssn3.java;
+package com.KPetersAdvancedJava.java;
 
-import com.KPetersAssn3.java.Model.StockQuote;
+import com.KPetersAdvancedJava.java.Model.StockQuote;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

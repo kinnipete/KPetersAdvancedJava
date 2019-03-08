@@ -6,10 +6,10 @@
  * @since 2/6/2019
  */
 
-package com.KPetersAssn3.java.Service;
+package com.KPetersAdvancedJava.java.Service;
 
-import com.KPetersAssn3.java.Model.IntervalEnum;
-import com.KPetersAssn3.java.Model.StockQuote;
+import com.KPetersAdvancedJava.java.Model.IntervalEnum;
+import com.KPetersAdvancedJava.java.Model.StockQuote;
 
 import java.util.Calendar;
 import java.util.List;

@@ -5,7 +5,7 @@
  * * @version 1.8
  * * @since 2/6/2019
  */
-package com.KPetersAssn3.java.Model;
+package com.KPetersAdvancedJava.java.Model;
 
 import org.apache.http.annotation.Immutable;
 

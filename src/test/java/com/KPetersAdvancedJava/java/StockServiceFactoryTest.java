@@ -5,9 +5,10 @@
  * @version 1.8
  * @since 2/6/2019
  */
-package com.KPetersAssn3.java;
+package com.KPetersAdvancedJava.java;
 
-import com.KPetersAssn3.java.Service.StockServiceFactory;
+import com.KPetersAdvancedJava.java.Service.StockServiceFactory;
+import junit.framework.TestCase;
 import org.junit.Test;
 import static junit.framework.TestCase.assertNotNull;
 
@@ -18,6 +19,6 @@ public class StockServiceFactoryTest {
 
     @Test
     public void testGetInstance()  {
-        assertNotNull("Verify we get a service", StockServiceFactory.getStockService());
+        TestCase.assertNotNull("Verify we get a service", StockServiceFactory.getStockService());
     }
 }

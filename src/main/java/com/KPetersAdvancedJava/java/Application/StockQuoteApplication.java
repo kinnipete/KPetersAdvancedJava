@@ -7,10 +7,10 @@
  * @since 2/6/2019
  */
 
-package com.KPetersAssn3.java.Application;
+package com.KPetersAdvancedJava.java.Application;
 
-import com.KPetersAssn3.java.Service.StockServiceFactory;
-import com.KPetersAssn3.java.Service.StockService;
+import com.KPetersAdvancedJava.java.Service.StockService;
+import com.KPetersAdvancedJava.java.Service.StockServiceFactory;
 
 /**
  *  Main application class for the StockService
